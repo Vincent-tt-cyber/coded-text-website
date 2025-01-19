@@ -1,5 +1,3 @@
-import "./style.css";
-
 function codedString(str) {
   let coded = "";
   let count = 1;
